@@ -1,0 +1,24 @@
+{
+  "name": "example_threejs-shaders-patterns",
+  "private": true,
+  "version": "0.0.0",
+  "type": "module",
+  "scripts": {
+    "dev": "vite",
+    "build": "vite build",
+    "preview": "vite preview"
+  },
+  "devDependencies": {
+    "@sveltejs/vite-plugin-svelte": "^1.0.0-next.30",
+    "svelte": "^3.44.0",
+    "vite": "^2.9.0"
+  },
+  "dependencies": {
+    "sass": "^1.50.0",
+    "svelte-preprocess": "^4.10.5",
+    "svelte-spa-router": "^3.2.0",
+    "three": "^0.139.2",
+    "vite-plugin-pages-svelte": "^0.0.2",
+    "vite-plugin-string": "^1.1.2"
+  }
+}
